@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/11 SLBVPV/64-bit">
+  <diagram id="-IgQpYuRl4K9p0u_8VGV" name="第 1 页">
+    <mxGraphModel dx="774" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="epDtSfIjlvvV482aZwiA-3" edge="1" parent="1" source="epDtSfIjlvvV482aZwiA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="epDtSfIjlvvV482aZwiA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-4" connectable="0" parent="epDtSfIjlvvV482aZwiA-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="So" vertex="1">
+          <mxGeometry relative="1" y="5" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="数据（前提、根据）" vertex="1">
+          <mxGeometry height="40" width="160" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="限定词，主张（结论）" vertex="1">
+          <mxGeometry height="40" width="160" x="400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-6" edge="1" parent="1" source="epDtSfIjlvvV482aZwiA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-7" connectable="0" parent="epDtSfIjlvvV482aZwiA-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Since" vertex="1">
+          <mxGeometry relative="1" x="0.0556" y="-2" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epDtSfIjlvvV482aZwiA-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="限定词，主张（结论）" vertex="1">
+          <mxGeometry height="40" width="160" x="240" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
